@@ -1,196 +1,194 @@
 player_name,rank,lp,season_points,wins,losses
-EG jojopyun,1,615,0,90,58
-EST Mia,2,520,0,72,40
-BOG RJS,3,510,0,93,84
-EG Srtty,3,510,0,75,48
-FLY Kumo,5,500,0,86,74
-EG Kaori,6,495,0,79,59
-C9 Zven,6,495,0,70,41
-GG Olleh,8,475,0,69,44
-DIG River,9,445,0,57,26
-100 Kenvi,10,430,0,63,40
-GG Tony Top,11,420,0,73,62
-TL Armao,12,410,0,66,50
-TL Yeon,12,410,0,59,36
-SN Ariendel,14,405,0,65,49
-Lourlo,14,405,0,75,69
-CLG Dhokla,16,390,0,58,38
-AZE Dimitry,17,375,0,57,41
-EG Tomio,17,375,0,71,67
-TL Hans sama,19,365,0,53,33
-GG Ablazeolive,19,365,0,54,35
-FLY Johnsun,21,355,0,49,27
-ISG ADD,22,345,0,47,25
-GG Lost,22,345,0,46,23
-FLY Josedeodo,24,340,0,56,44
-TSM Takeover,24,340,0,63,61
-TL Eyla,26,325,0,45,25
-C9 Malice,27,310,0,48,34
-CLG Breezy,28,300,0,55,50
-GG Pridestalkr,28,300,0,55,50
-Smoothie,30,295,0,59,59
+EG jojopyun,1,610,0,92,63
+BOG RJS,2,555,0,99,87
+EG Srtty,3,545,0,80,51
+FLY Kumo,4,530,0,91,78
+EST Mia,4,530,0,75,44
+C9 Zven,6,525,0,74,43
+GG Olleh,7,500,0,73,47
+EG Kaori,7,500,0,82,64
+DIG River,9,460,0,59,27
+GG Tony Top,10,445,0,77,65
+CLG Dhokla,10,445,0,64,39
+TL Yeon,10,445,0,63,37
+100 Kenvi,13,440,0,65,42
+Lourlo,14,410,0,78,74
+TL Armao,14,410,0,68,54
+SN Ariendel,16,400,0,66,52
+EG Tomio,16,400,0,75,70
+GG Ablazeolive,18,390,0,57,36
+TL Hans sama,19,380,0,55,34
+FLY Josedeodo,20,370,0,60,46
+AZE Dimitry,21,365,0,57,43
+FLY Johnsun,22,360,0,50,28
+ISG ADD,23,355,0,48,25
+CLG Breezy,24,345,0,61,53
+GG Lost,25,340,0,47,26
+TSM Takeover,26,335,0,64,64
+TL Eyla,27,325,0,45,25
+C9 Malice,28,310,0,48,34
+Smoothie,28,310,0,62,62
+GG Pridestalkr,30,300,0,57,54
 TL CoreJJ,31,285,0,44,31
-Stunt,32,280,0,47,40
+100 Busio,32,280,0,49,45
 XTN Keine,33,275,0,42,31
+FLY Tomo,33,275,0,47,39
+Stunt,33,275,0,47,41
 R7 Cepted,33,275,0,44,33
-FLY Tomo,35,270,0,46,38
-FLY Diamond,35,270,0,53,52
-MU Niles,37,260,0,43,35
-IMT Destiny,37,260,0,44,37
-100 Tenacity,39,255,0,43,38
-AK Luci,40,250,0,49,50
-UCI duong pro,40,250,0,46,46
-IMA Winston,42,245,0,61,74
-DIG Neo,42,245,0,32,15
-100X Sword,44,240,0,48,52
-100 Busio,44,240,0,45,45
-Gweiss,46,230,0,36,27
-CLG Jenkins,46,230,0,34,24
-100 Abbedagge,48,225,0,37,29
-IMT Arrow,48,225,0,40,35
-ISG Jelly,50,220,0,34,24
-GG Licorice,51,215,0,35,27
+IMT Arrow,37,270,0,45,36
+Gweiss,38,265,0,41,30
+100 Tenacity,38,265,0,44,38
+FLY Diamond,38,265,0,55,57
+MU Niles,41,260,0,43,35
+IMT Destiny,41,260,0,44,37
+DIG Neo,43,255,0,33,15
+ISG Jelly,44,250,0,37,24
+UCI duong pro,44,250,0,46,46
+AK Luci,46,245,0,49,51
+IMA Winston,46,245,0,61,74
+100X Sword,48,240,0,50,56
+100 JimieN,49,225,0,37,30
+100 Abbedagge,49,225,0,37,29
 TL Santorin,51,215,0,34,28
-100 JimieN,53,205,0,35,30
-100X Insanity,54,195,0,40,43
-FLY Philip,55,190,0,44,52
-Svenskeren,55,190,0,30,22
-AZE Lonely,57,185,0,23,9
-EG Impact,57,185,0,37,37
-TSM Instinct,57,185,0,49,61
-CLG Palafox,57,185,0,38,43
-FLY Spirax,57,185,0,31,25
-FLY toucouille,62,180,0,35,35
-C9 Darshan,62,180,0,43,53
-TL Bjergsen,62,180,0,30,25
-EG Vulcan,65,175,0,27,20
-TSM V1per,65,175,0,27,19
-IMT Concept,65,175,0,36,38
-EST Bvoy,68,170,0,49,66
+CLG Jenkins,51,215,0,34,27
+GG Licorice,53,210,0,35,28
+FLY Philip,53,210,0,47,54
+TL Bjergsen,55,200,0,32,25
+CLG Palafox,55,200,0,40,44
+100X Insanity,57,195,0,40,43
+EG Vulcan,57,195,0,29,20
+C9 Darshan,57,195,0,45,54
+FLY toucouille,60,190,0,37,37
+TSM V1per,60,190,0,29,20
+IMT Concept,60,190,0,38,39
+Svenskeren,60,190,0,30,22
+AZE Lonely,64,185,0,23,9
+EG Impact,64,185,0,37,37
+EST Bvoy,66,180,0,50,66
+FLY Spirax,66,180,0,31,26
+TSM Instinct,68,170,0,49,64
 R7 SoHwan,69,165,0,42,53
+TSM Shenyi,69,165,0,33,33
 IMT Revenge,69,165,0,32,32
-AK Hoglet,71,160,0,26,22
-TSM Shenyi,72,155,0,31,31
-CLG Luger,72,155,0,36,42
-100 Closer,72,155,0,27,23
-R7 Oddie,75,150,0,24,19
-GG ry0ma,75,150,0,24,18
-EST Leza,75,150,0,29,28
-C9 Isles,78,145,0,24,21
-IMT PowerOfEvil,78,145,0,22,16
-C9 Summit,78,145,0,22,17
-IMT Xerxe,81,140,0,21,14
-100X Array,82,135,0,30,34
-IMT Pretty,82,135,0,32,37
-100 huhi,84,130,0,33,42
-IMT WildTurtle,84,130,0,21,16
-Jensen,84,130,0,26,30
-IMT Dardoch,87,125,0,20,15
-C9 Copy,87,125,0,15,5
-EST Grell,87,125,0,28,31
-GG Stixxay,87,125,0,16,12
-EGP Sketch,91,120,0,25,32
-C9 Berserker,91,120,0,19,15
-TSM Tactical,91,120,0,18,12
-100 FBI,94,115,0,21,20
-TL Bwipo,94,115,0,23,23
-DIG JayJ,96,110,0,16,10
-TL Haeri,96,110,0,26,36
-IMT Joey,96,110,0,24,26
-GET Fix,96,110,0,32,44
-NOT Yukino,96,110,0,24,26
-FLY aphromoo,101,105,0,25,30
-TL Bradley,101,105,0,29,37
-WC Minui,103,100,0,16,14
-100 Wixxi,103,100,0,19,20
-FLY Yuuji,103,100,0,25,30
-AK CaD,103,100,0,16,15
-GG Chime,107,95,0,16,13
-100 Ssumday,107,95,0,21,25
-C9 Blaber,107,95,0,12,5
-WC Strompest,110,90,0,24,34
-EG Inspired,110,90,0,18,18
-EST Lyg,112,85,0,31,49
-NOT Gryffinn,113,80,0,22,34
-UCI Kim Down,114,75,0,11,8
-TA Chookies,114,75,0,12,10
-NOT 5fire,114,75,0,10,5
-TG Trixter,117,70,0,10,7
-IMT Chad,117,70,0,16,18
-RAD Raheen,117,70,0,11,8
-INF cody,117,70,0,19,25
-TA Nightstar,117,70,0,20,30
-EG Soligo,117,70,0,21,30
-R7 Warangelus,123,65,0,32,51
+R7 Oddie,72,160,0,25,19
+AK Hoglet,72,160,0,26,22
+C9 Isles,74,155,0,26,23
+C9 Summit,74,155,0,24,19
+TL Haeri,76,150,0,30,36
+CLG Luger,76,150,0,36,43
+GG ry0ma,76,150,0,24,18
+100 Closer,76,150,0,27,24
+EST Leza,76,150,0,29,28
+IMT PowerOfEvil,81,145,0,22,16
+EGP Sketch,82,140,0,27,32
+Jensen,82,140,0,28,32
+EG Inspired,84,135,0,23,19
+IMT Xerxe,84,135,0,21,15
+TL Bwipo,84,135,0,26,25
+AK CaD,84,135,0,20,16
+100 huhi,88,130,0,33,42
+IMT WildTurtle,88,130,0,21,16
+IMT Pretty,88,130,0,33,40
+GG Stixxay,88,130,0,18,15
+IMT Dardoch,92,125,0,20,15
+C9 Berserker,92,125,0,20,16
+100X Array,92,125,0,30,36
+C9 Copy,92,125,0,15,5
+EST Grell,92,125,0,28,31
+C9 Blaber,92,125,0,15,5
+WC Strompest,98,120,0,28,36
+100 Wixxi,98,120,0,21,20
+TSM Tactical,98,120,0,18,12
+100 FBI,101,115,0,21,20
+NOT Yukino,101,115,0,27,31
+DIG JayJ,103,110,0,17,12
+FLY aphromoo,104,105,0,25,30
+TL Bradley,104,105,0,31,41
+GET Fix,104,105,0,32,45
+EST Lyg,104,105,0,33,49
+WC Minui,108,100,0,16,14
+IMT Joey,108,100,0,25,30
+FLY Yuuji,108,100,0,26,32
+100 Ssumday,111,95,0,21,25
+NOT Gryffinn,112,90,0,24,36
+GG Chime,112,90,0,16,14
+NOT 5fire,112,90,0,13,8
+IMT Chad,115,80,0,17,18
+UCI Kim Down,116,75,0,11,8
+TA Chookies,116,75,0,12,10
+100X Keel,116,75,0,18,22
+TG Trixter,119,70,0,10,7
+RAD Raheen,119,70,0,11,8
+INF cody,119,70,0,19,25
+TA Nightstar,119,70,0,20,30
 EST Acce,123,65,0,34,60
 CLG Contractz,123,65,0,8,3
 INF Ackerman,123,65,0,14,17
-CLG Prismal,123,65,0,14,15
-WC Crazy Goose,123,65,0,20,27
-TA Dec0y,129,60,0,20,33
-TSM Hyper,129,60,0,9,7
-DIG eXyu,129,60,0,11,11
-DARE Enigma,129,60,0,9,7
+TA Dec0y,126,60,0,20,33
+TSM Hyper,126,60,0,9,7
+EG Soligo,126,60,0,21,32
+DARE Enigma,126,60,0,9,7
+CLG RoseThorn,126,60,0,11,10
+WC Crazy Goose,126,60,0,21,30
+BOG B3nji,126,60,0,7,2
 AK Pancake,133,55,0,16,25
-SN Saico,133,55,0,14,19
 CLG Poome,133,55,0,23,35
 C9 k1ng,133,55,0,10,10
 TSM Spica,133,55,0,8,5
 GET Bardito,133,55,0,12,15
 EG Danny,133,55,0,9,7
 Solo,133,55,0,8,5
-XTN Archer,141,50,0,21,36
-C9 Qit0ng,141,50,0,17,27
-R7 Slow,141,50,0,16,23
-BOG Inori,141,50,0,7,10
-WIN Kenji,145,45,0,16,25
-WC Jeremy,145,45,0,17,27
-UCI Cinna,145,45,0,8,7
-NOT Scoooped,145,45,0,6,3
-WIN FrostForest,145,45,0,7,6
-INF Kz,145,45,0,15,23
-DIG Spawn,145,45,0,7,10
-100X Keel,145,45,0,14,20
-RAD Lightpulse,153,40,0,11,17
-BAY Seranok,153,40,0,18,33
-DIG DARKWINGS,153,40,0,8,12
-100 Gamsu,153,40,0,8,12
-TSM Huni,153,40,0,5,3
-DNHA Dinka,153,40,0,4,0
-AK Skeeto,153,40,0,9,13
-GTC duoking,160,35,0,5,3
-UCI Misterdot,160,35,0,5,7
-UCI dtro18,160,35,0,13,20
-AZE 5kid,160,35,0,9,11
-MU Shady,160,35,0,7,8
-DIG FakeGod,160,35,0,8,9
-TSM Yursan,160,35,0,9,15
-CLG Triple,160,35,0,4,2
-WC Toasty,160,35,0,4,2
-WC 0 n a t,160,35,0,4,3
+R7 Warangelus,140,50,0,32,54
+SN Saico,140,50,0,14,20
+XTN Archer,140,50,0,21,36
+CLG Prismal,140,50,0,15,20
+C9 Qit0ng,140,50,0,17,27
+R7 Slow,140,50,0,16,23
+BOG Inori,140,50,0,7,10
+WIN Kenji,147,45,0,16,25
+WC Jeremy,147,45,0,17,27
+UCI Cinna,147,45,0,8,7
+NOT Scoooped,147,45,0,6,3
+WIN FrostForest,147,45,0,7,6
+INF Kz,147,45,0,15,23
+DIG eXyu,147,45,0,11,14
+RAD Lightpulse,154,40,0,11,17
+BAY Seranok,154,40,0,18,33
+DIG FakeGod,154,40,0,9,10
+100 Gamsu,154,40,0,8,12
+TSM Huni,154,40,0,5,3
+DIG Spawn,154,40,0,7,11
+DNHA Dinka,154,40,0,4,0
+GTC duoking,161,35,0,5,3
+UCI Misterdot,161,35,0,5,7
+UCI dtro18,161,35,0,13,20
+AZE 5kid,161,35,0,9,11
+MU Shady,161,35,0,7,8
+TSM Yursan,161,35,0,9,15
+AK Skeeto,161,35,0,9,14
+WC Toasty,161,35,0,4,2
+WC 0 n a t,161,35,0,4,3
 100X donbray,170,30,0,6,6
 DIG Blue,170,30,0,6,6
 IMA shochi,170,30,0,6,6
+DIG DARKWINGS,170,30,0,8,14
 XTN camilo,170,30,0,7,8
 TL Rhino,170,30,0,4,2
 GG Violet,170,30,0,4,3
-CLG RoseThorn,170,30,0,8,10
 TSM Keaiduo,170,30,0,3,2
-NOT Dragoon,178,25,0,4,3
-WC Griffin,178,25,0,17,33
-DARE BMFX,178,25,0,3,1
-AK Zothve,178,25,0,26,55
-IMA Trevor,178,25,0,8,14
-EG SkyTec,178,25,0,13,29
-GG Akaadian,178,25,0,5,6
-AZE Aloned,178,25,0,11,17
-Doublelift,178,25,0,11,18
-GTC Vakin,178,25,0,5,6
-Keith,178,25,0,13,24
-XTN Horus,178,25,0,3,1
+Keith,170,30,0,15,27
+NOT Dragoon,179,25,0,4,3
+WC Griffin,179,25,0,17,33
+DARE BMFX,179,25,0,3,1
+EGP Perry,179,25,0,5,8
+IMA Trevor,179,25,0,8,14
+EG SkyTec,179,25,0,13,29
+GG Akaadian,179,25,0,5,6
+Doublelift,179,25,0,11,18
+GTC Vakin,179,25,0,5,6
+3P Messages,179,25,0,4,5
+XTN Horus,179,25,0,3,1
 Pobelter,190,20,0,23,45
-DNHA Svmmy,190,20,0,33,66
-EGP Perry,190,20,0,4,7
 MUS Getback,190,20,0,4,6
 SN im baekho,190,20,0,7,10
 BAY Bejjaniii,190,20,0,5,6
@@ -199,72 +197,74 @@ UCI sahori,190,20,0,3,5
 BAY Dragonmin,190,20,0,5,9
 INF Jauny,190,20,0,6,9
 100X Sniper,190,20,0,3,3
+AZE Aloned,190,20,0,11,18
 Qit0ng,190,20,0,2,0
 EGP Faisal,190,20,0,3,2
 R7 Daiky,190,20,0,6,15
-BOG B3nji,190,20,0,3,2
 TG Qwacker,190,20,0,2,2
-NOT Jishuka,206,15,0,6,9
-IMA Meech,206,15,0,2,7
-UCI Berik,206,15,0,2,1
-SN Firetheft,206,15,0,2,3
-IMA animegirl,206,15,0,2,4
-Goldenglue,206,15,0,5,8
-ISG seiya,206,15,0,3,5
-R7 Ceo,206,15,0,3,3
-ISG FIare,206,15,0,2,3
-Sneaky,206,15,0,2,2
-MU Azog,216,10,0,9,20
-TG Doxa,216,10,0,1,0
-ISG Gavotto,216,10,0,2,2
-RAD Bluster,216,10,0,1,1
-GET Plugo,216,10,0,2,3
-DIG Eclipse,216,10,0,2,3
-C9 Fudge,216,10,0,1,0
-ISU DrewDozer,216,10,0,1,2
-CIyde,216,10,0,7,22
-3P Munchy,216,10,0,2,3
-3P Messages,216,10,0,2,4
-WC Rhino,216,10,0,1,0
-BOG Tuesday,216,10,0,1,3
-WC O n a t,216,10,0,2,5
-BOG dshao,216,10,0,1,0
-DARE Blossoms,231,5,0,4,10
-WIN Avano,231,5,0,3,7
-RAD Crimson,231,5,0,1,1
-3P Lunar2,231,5,0,1,1
-MU APA,231,5,0,4,10
-BAY Braine,236,0,0,2,5
-MUS Kind,236,0,0,3,6
-TA Nemesis9,236,0,0,2,10
-MU Odd Orange,236,0,0,2,12
-DARE Snow2,236,0,0,0,4
-XTN Zerito,236,0,0,7,27
-TG Cozy,236,0,0,0,1
-NOT Blazze,236,0,0,1,3
-WIN Saint GRIMM,236,0,0,0,9
-DARE Leemo,236,0,0,3,9
-WIN Mordio,236,0,0,5,14
-SN Pseudo,236,0,0,0,5
-BAY SophistSage,236,0,0,1,2
-WIN Vex,236,0,0,8,17
-EGP Daption,236,0,0,1,4
-AZE Straight,236,0,0,4,8
-Mash,236,0,0,0,2
-100X Mist,236,0,0,0,1
-EGP LEO99,236,0,0,1,4
-GET Fs,236,0,0,1,9
-DIG Biofrost,236,0,0,2,4
-TG Links,236,0,0,0,2
-C9 Winsome,236,0,0,0,2
-INF Brayaron,236,0,0,4,11
-XTN Tyr,236,0,0,1,4
-INF SolidSnake,236,0,0,1,11
-GG Iconic,236,0,0,0,2
-ISG Follow,236,0,0,3,7
-MU Aizo,236,0,0,1,4
-ISU Tempos,236,0,0,2,5
-WC Rapid,236,0,0,1,8
-Min,236,0,0,0,1
-3P Zamudo,236,0,0,2,7
-3P MikeYeung,236,0,0,0,3
+DNHA Svmmy,204,15,0,35,71
+NOT Jishuka,204,15,0,6,9
+IMA Meech,204,15,0,2,7
+AK Zothve,204,15,0,26,57
+UCI Berik,204,15,0,2,1
+SN Firetheft,204,15,0,2,3
+IMA animegirl,204,15,0,2,4
+Goldenglue,204,15,0,5,8
+ISG seiya,204,15,0,3,5
+CLG Triple,204,15,0,4,6
+R7 Ceo,204,15,0,3,3
+ISG FIare,204,15,0,2,3
+Sneaky,204,15,0,2,2
+TG Doxa,217,10,0,1,0
+ISG Gavotto,217,10,0,2,2
+RAD Bluster,217,10,0,1,1
+GET Plugo,217,10,0,2,3
+DIG Eclipse,217,10,0,2,3
+C9 Fudge,217,10,0,1,0
+ISU DrewDozer,217,10,0,1,2
+CIyde,217,10,0,7,22
+3P Munchy,217,10,0,2,3
+WC Rhino,217,10,0,1,0
+BOG Tuesday,217,10,0,1,3
+WC O n a t,217,10,0,2,5
+DARE Blossoms,229,5,0,4,10
+WIN Avano,229,5,0,3,7
+RAD Crimson,229,5,0,1,1
+3P Lunar2,229,5,0,1,1
+MU APA,229,5,0,4,10
+BOG dshao,229,5,0,1,1
+BAY Braine,235,0,0,2,5
+MUS Kind,235,0,0,3,6
+TA Nemesis9,235,0,0,2,10
+MU Azog,235,0,0,9,22
+MU Odd Orange,235,0,0,2,12
+DARE Snow2,235,0,0,0,4
+XTN Zerito,235,0,0,7,27
+TG Cozy,235,0,0,0,1
+NOT Blazze,235,0,0,1,3
+WIN Saint GRIMM,235,0,0,0,9
+DARE Leemo,235,0,0,3,9
+WIN Mordio,235,0,0,5,14
+SN Pseudo,235,0,0,0,5
+BAY SophistSage,235,0,0,1,2
+WIN Vex,235,0,0,8,17
+EGP Daption,235,0,0,1,6
+AZE Straight,235,0,0,4,8
+Mash,235,0,0,0,2
+100X Mist,235,0,0,0,1
+EGP LEO99,235,0,0,1,4
+GET Fs,235,0,0,1,9
+DIG Biofrost,235,0,0,2,4
+TG Links,235,0,0,0,2
+C9 Winsome,235,0,0,0,2
+INF Brayaron,235,0,0,4,11
+XTN Tyr,235,0,0,1,4
+INF SolidSnake,235,0,0,1,11
+GG Iconic,235,0,0,0,2
+ISG Follow,235,0,0,3,7
+MU Aizo,235,0,0,1,4
+ISU Tempos,235,0,0,2,5
+WC Rapid,235,0,0,1,8
+Min,235,0,0,0,1
+3P Zamudo,235,0,0,2,9
+3P MikeYeung,235,0,0,0,3
